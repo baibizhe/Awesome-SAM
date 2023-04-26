@@ -30,6 +30,7 @@ Object Detection via Symmetric Learning](https://arxiv.org/pdf/2304.04403.pdf) [
 - [Segment anything, from space?](https://arxiv.org/pdf/2304.13000.pdf) 
 - [Generalist Vision Foundation Models for Medical Imaging: A Case Study of Segment Anything Model on Zero-Shot Medical Segmentation](https://arxiv.org/pdf/2304.12637.pdf) [[code]()]
 - [Application of Segment Anything Model for CivilInfrastructure Defect Assessment](https://arxiv.org/pdf/2304.12600.pdf) 
+- [Segment Anything Model for Medical Image Analysis: an Experimental Study](https://arxiv.org/pdf/2304.10517.pdf) [[code]()]
 
 ### Image style transfer
 - [ Any-to-Any Style Transfer: Making Picasso and Da Vinci Collaborate ](https://arxiv.org/abs/2304.09728) [[code](https://github.com/Huage001/Transfer-Any-Style)]
@@ -47,6 +48,7 @@ Object Detection via Symmetric Learning](https://arxiv.org/pdf/2304.04403.pdf) [
 ### Others
 - [Track Anything: Segment Anything Meets Videos](https://arxiv.org/pdf/2304.11968.pdf) [[code](https://github.com/gaomingqi/Track-Anything)]
 - [Segment Anything in Non-Euclidean Domains:Challenges and Opportunities](https://arxiv.org/pdf/2304.11595.pdf) 
+- [CAN SAM COUNT ANYTHING? AN EMPIRICAL STUDY ON SAM COUNTING](https://arxiv.org/pdf/2304.10817.pdf) [[code](https://github.com/Vision-Intelligence-and-Robots-Group/count-anything)]
 
 
 ## Acknowledgment
