@@ -38,6 +38,7 @@ Object Detection via Symmetric Learning](https://arxiv.org/pdf/2304.04403.pdf) [
 ### Fine tunning SAM 
 - [SAM-Adaptor: Adapting SAM in Underperformed Scenes](https://arxiv.org/pdf/2304.09148.pdf) [[code](https://github.com/tianrun-chen/SAM-Adaptor-PyTorch)]
 - [Medical SAM Adapter: Adapting Segment Anything Model for Medical Image Segmentation](https://arxiv.org/pdf/2304.12620.pdf) [[code](https://github.com/WuJunde/Medical-SAM-Adapter)]
+- [Segment Anything in Medical Images](https://arxiv.org/pdf/2304.12306.pdf) [[code](https://github.com/bowang-lab/MedSAM)]
 
 
 ### 3D-related
