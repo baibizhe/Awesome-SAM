@@ -1,6 +1,6 @@
 # Awesome-SAM
 This repo collects the research resources based on SAM(Segment Anything Model) proposed by Meta AI. If you would like to contribute, please open an issue.
-I will keep  update daily  until end of May . Some paper haven't update to google scholar database. I search it daily from arxiv
+I will keep  update daily  until end of May . Some paper haven't been updated to google scholar database. I search it daily from arxiv
 
 
 ## SAM 
