@@ -22,7 +22,6 @@ Object Detection via Symmetric Learning](https://arxiv.org/pdf/2304.04403.pdf) [
 - [ SAM vs BET: A Comparative Study for Brain Extraction and Segmentation of Magnetic Resonance Images using Deep Learning](https://arxiv.org/abs/2304.04738) 
 - [ SAMM (Segment Any Medical Model): A 3D Slicer Integration to SAM](https://arxiv.org/abs/2304.04738) [[code](https://github.com/bingogome/samm)]
 - [SAM Struggles in Concealed Scenes](https://arxiv.org/abs/2304.06022) 
-- [STU-Net: Scalable and Transferable Medical Image Segmentation Models Empowered by Large-Scale Supervised Pre-training](https://arxiv.org/abs/2304.06716) [[code](https://github.com/Ziyan-Huang/STU-Net)]
 
 ### Image style transfer
 - [ Any-to-Any Style Transfer: Making Picasso and Da Vinci Collaborate ]([https://arxiv.org/abs/2304.04738](https://arxiv.org/abs/2304.09728)) [[code](https://github.com/Huage001/Transfer-Any-Style)]
