@@ -24,7 +24,8 @@ Object Detection via Symmetric Learning](https://arxiv.org/pdf/2304.04403.pdf) [
 - [SAM Struggles in Concealed Scenes](https://arxiv.org/abs/2304.06022) 
 
 ### Image style transfer
-- [ Any-to-Any Style Transfer: Making Picasso and Da Vinci Collaborate ]([https://arxiv.org/abs/2304.04738](https://arxiv.org/abs/2304.09728)) [[code](https://github.com/Huage001/Transfer-Any-Style)]
+- [ Any-to-Any Style Transfer: Making Picasso and Da Vinci Collaborate ](https://arxiv.org/abs/2304.09728) [[code](https://github.com/Huage001/Transfer-Any-Style)]
+- [ Inpaint Anything: Segment Anything Meets Image Inpainting ](https://arxiv.org/abs/2304.06790) [[code](https://github.com/Huage001/Transfer-Any-Style)]
 
 
 ## Acknowledgment
