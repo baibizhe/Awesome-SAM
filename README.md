@@ -5,6 +5,7 @@ This repo collects the research resources based on SAM(Segment Anything Model) p
 ## SAM 
 - [Segment Anything](https://arxiv.org/abs/2304.02643) [[code](https://segment-anything.com/) , [demo](https://segment-anything.com/) , [Fine-tune blog](https://encord.com/blog/learn-how-to-fine-tune-the-segment-anything-model-sam/)]
 
+- []() [[code]()]
 
 ## Applications
 
@@ -25,8 +26,10 @@ Object Detection via Symmetric Learning](https://arxiv.org/pdf/2304.04403.pdf) [
 
 ### Image style transfer
 - [ Any-to-Any Style Transfer: Making Picasso and Da Vinci Collaborate ](https://arxiv.org/abs/2304.09728) [[code](https://github.com/Huage001/Transfer-Any-Style)]
-- [ Inpaint Anything: Segment Anything Meets Image Inpainting ](https://arxiv.org/abs/2304.06790) [[code](https://github.com/Huage001/Transfer-Any-Style)]
+- [ Inpaint Anything: Segment Anything Meets Image Inpainting ](https://arxiv.org/abs/2304.06790) [[code](https://github.com/geekyutao/Inpaint-Anything)]
 
+### Fine tunning SAM 
+- [SAM-Adaptor: Adapting SAM in Underperformed Scenes](https://arxiv.org/pdf/2304.09148.pdf) [[code](https://github.com/tianrun-chen/SAM-Adaptor-PyTorch)]
 
 ## Acknowledgment
 Inspired by [Awesome-CLIP](https://github.com/yzhuoning/Awesome-CLIP).  
