@@ -37,10 +37,15 @@ Object Detection via Symmetric Learning](https://arxiv.org/pdf/2304.04403.pdf) [
 
 ### Fine tunning SAM 
 - [SAM-Adaptor: Adapting SAM in Underperformed Scenes](https://arxiv.org/pdf/2304.09148.pdf) [[code](https://github.com/tianrun-chen/SAM-Adaptor-PyTorch)]
+- [Medical SAM Adapter: Adapting Segment Anything Model for Medical Image Segmentation](https://arxiv.org/pdf/2304.12620.pdf) [[code](https://github.com/WuJunde/Medical-SAM-Adapter)]
 
 
 ### 3D-related
 - [Anything-3D: Towards Single-view Anything Reconstruction in the Wild](https://arxiv.org/abs/2304.10261) [[code](https://github.com/Anything-of-anything/Anything-3D)]
+
+### Others
+- [Track Anything: Segment Anything Meets Videos](https://arxiv.org/pdf/2304.11968.pdf) [[code](https://github.com/gaomingqi/Track-Anything)]
+- [Segment Anything in Non-Euclidean Domains:Challenges and Opportunities](https://arxiv.org/pdf/2304.11595.pdf) 
 
 
 ## Acknowledgment
