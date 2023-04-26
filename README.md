@@ -27,6 +27,9 @@ Object Detection via Symmetric Learning](https://arxiv.org/pdf/2304.04403.pdf) [
 - [Can SAM Segment Polyps?](https://arxiv.org/abs/2304.07583) [[code](https://github.com/taozh2017/SAMPolyp)]
 - [Learning to "Segment Anything" in Thermal Infrared Images through Knowledge Distillation with a Large Scale Dataset SATIR](https://arxiv.org/abs/2304.07969) [[code](https://github.com/chenjzBUAA/SATIR)]
 - [When SAM Meets Medical Images: An Investigation of Segment Anything Model (SAM) on Multi-phase Liver Tumor Segmentation](https://arxiv.org/abs/2304.08506)
+- [Segment anything, from space?](https://arxiv.org/pdf/2304.13000.pdf) 
+- [Generalist Vision Foundation Models for Medical Imaging: A Case Study of Segment Anything Model on Zero-Shot Medical Segmentation](https://arxiv.org/pdf/2304.12637.pdf) [[code]()]
+- [Application of Segment Anything Model for CivilInfrastructure Defect Assessment](https://arxiv.org/pdf/2304.12600.pdf) 
 
 ### Image style transfer
 - [ Any-to-Any Style Transfer: Making Picasso and Da Vinci Collaborate ](https://arxiv.org/abs/2304.09728) [[code](https://github.com/Huage001/Transfer-Any-Style)]
