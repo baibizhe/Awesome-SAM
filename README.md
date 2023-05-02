@@ -31,6 +31,9 @@ Object Detection via Symmetric Learning](https://arxiv.org/pdf/2304.04403.pdf) [
 - [Generalist Vision Foundation Models for Medical Imaging: A Case Study of Segment Anything Model on Zero-Shot Medical Segmentation](https://arxiv.org/pdf/2304.12637.pdf) [[code]()]
 - [Application of Segment Anything Model for CivilInfrastructure Defect Assessment](https://arxiv.org/pdf/2304.12600.pdf) 
 - [Segment Anything Model for Medical Image Analysis: an Experimental Study](https://arxiv.org/pdf/2304.10517.pdf) [[code]()]
+- [segment anything model (SAM) meets glass: mirror and transparent objects cannot be easily detected.](https://arxiv.org/pdf/2305.00278.pdf) 
+- [DSEC-MOS: Segment Any Moving Object with Moving Ego Vehicle](https://arxiv.org/pdf/2305.00126.pdf) [[code](https://github.com/ZZY-Zhou/DSEC-MOS)] (404 at May 2nd)
+- [Exploring the Zero-Shot Capabilities of the Segment Anything Model (SAM) in 2D Medical Imaging: A Comprehensive Evaluation and Practical Guideline](https://arxiv.org/pdf/2305.00109.pdf) 
 
 ### Image style transfer
 - [ Any-to-Any Style Transfer: Making Picasso and Da Vinci Collaborate ](https://arxiv.org/abs/2304.09728) [[code](https://github.com/Huage001/Transfer-Any-Style)]
@@ -50,6 +53,8 @@ Object Detection via Symmetric Learning](https://arxiv.org/pdf/2304.04403.pdf) [
 - [Track Anything: Segment Anything Meets Videos](https://arxiv.org/pdf/2304.11968.pdf) [[code](https://github.com/gaomingqi/Track-Anything)]
 - [Segment Anything in Non-Euclidean Domains:Challenges and Opportunities](https://arxiv.org/pdf/2304.11595.pdf) 
 - [CAN SAM COUNT ANYTHING? AN EMPIRICAL STUDY ON SAM COUNTING](https://arxiv.org/pdf/2304.10817.pdf) [[code](https://github.com/Vision-Intelligence-and-Robots-Group/count-anything)]
+- [ATTACK-SAM: TOWARDS EVALUATING ADVERSARIAL ROBUSTNESS OF SEGMENT ANYTHING MODEL](https://arxiv.org/pdf/2305.00866.pdf) [[code](https://github.com/chenshuang-zhang/attack-sam)]
+- 
 - []() [[code]()]
 
 
