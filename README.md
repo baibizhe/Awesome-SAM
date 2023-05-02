@@ -36,6 +36,7 @@ Object Detection via Symmetric Learning](https://arxiv.org/pdf/2304.04403.pdf) [
 - [Exploring the Zero-Shot Capabilities of the Segment Anything Model (SAM) in 2D Medical Imaging: A Comprehensive Evaluation and Practical Guideline](https://arxiv.org/pdf/2305.00109.pdf) 
 - [GazeSAM: What You See is What You Segment](https://arxiv.org/pdf/2304.13844.pdf) [[code](https://github.com/ukaukaaaa/GazeSAM)]
 - [SkinSAM: Empowering Skin Cancer Segmentation with Segment Anything Model](https://arxiv.org/pdf/2304.13973.pdf) 
+- [Application of Segment Anything Model for Civil Infrastructure Defect Assessment](https://arxiv.org/pdf/2304.12600.pdf) 
 
 ### Image style transfer
 - [ Any-to-Any Style Transfer: Making Picasso and Da Vinci Collaborate ](https://arxiv.org/abs/2304.09728) [[code](https://github.com/Huage001/Transfer-Any-Style)]
@@ -46,6 +47,7 @@ Object Detection via Symmetric Learning](https://arxiv.org/pdf/2304.04403.pdf) [
 - [Medical SAM Adapter: Adapting Segment Anything Model for Medical Image Segmentation](https://arxiv.org/pdf/2304.12620.pdf) [[code](https://github.com/WuJunde/Medical-SAM-Adapter)]
 - [Segment Anything in Medical Images](https://arxiv.org/pdf/2304.12306.pdf) [[code](https://github.com/bowang-lab/MedSAM)]
 - [Learnable Ophthalmology SAM](https://arxiv.org/pdf/2304.13425.pdf) [[code](https://github.com/Qsingle/LearnablePromptSAM)]
+- [Customized Segment Anything Model for Medical Image Segmentation](https://arxiv.org/pdf/2304.13785.pdf) [[code](https://github.com/hitachinsk/SAMed)]
 
 
 ### 3D-related
