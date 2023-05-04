@@ -38,6 +38,7 @@ Object Detection via Symmetric Learning](https://arxiv.org/pdf/2304.04403.pdf) [
 - [SkinSAM: Empowering Skin Cancer Segmentation with Segment Anything Model](https://arxiv.org/pdf/2304.13973.pdf) 
 - [Application of Segment Anything Model for Civil Infrastructure Defect Assessment](https://arxiv.org/pdf/2304.12600.pdf) 
 - [Scaling-up Remote Sensing Segmentation Dataset with Segment Anything Model](https://arxiv.org/pdf/2305.02034.pdf) [[code](https://github.com/ViTAE-Transformer/SAMRS)]
+- [SAM on Medical Images: A Comprehensive Study on Three Prompt Modes](https://arxiv.org/pdf/2305.00035.pdf) 
 
 ### Image style transfer
 - [ Any-to-Any Style Transfer: Making Picasso and Da Vinci Collaborate ](https://arxiv.org/abs/2304.09728) [[code](https://github.com/Huage001/Transfer-Any-Style)]
