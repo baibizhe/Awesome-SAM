@@ -37,6 +37,7 @@ Object Detection via Symmetric Learning](https://arxiv.org/pdf/2304.04403.pdf) [
 - [GazeSAM: What You See is What You Segment](https://arxiv.org/pdf/2304.13844.pdf) [[code](https://github.com/ukaukaaaa/GazeSAM)]
 - [SkinSAM: Empowering Skin Cancer Segmentation with Segment Anything Model](https://arxiv.org/pdf/2304.13973.pdf) 
 - [Application of Segment Anything Model for Civil Infrastructure Defect Assessment](https://arxiv.org/pdf/2304.12600.pdf) 
+- [Scaling-up Remote Sensing Segmentation Dataset with Segment Anything Model](https://arxiv.org/pdf/2305.02034.pdf) [[code](https://github.com/ViTAE-Transformer/SAMRS)]
 
 ### Image style transfer
 - [ Any-to-Any Style Transfer: Making Picasso and Da Vinci Collaborate ](https://arxiv.org/abs/2304.09728) [[code](https://github.com/Huage001/Transfer-Any-Style)]
@@ -60,7 +61,7 @@ Object Detection via Symmetric Learning](https://arxiv.org/pdf/2304.04403.pdf) [
 - [Segment Anything in Non-Euclidean Domains:Challenges and Opportunities](https://arxiv.org/pdf/2304.11595.pdf) 
 - [CAN SAM COUNT ANYTHING? AN EMPIRICAL STUDY ON SAM COUNTING](https://arxiv.org/pdf/2304.10817.pdf) [[code](https://github.com/Vision-Intelligence-and-Robots-Group/count-anything)]
 - [ATTACK-SAM: TOWARDS EVALUATING ADVERSARIAL ROBUSTNESS OF SEGMENT ANYTHING MODEL](https://arxiv.org/pdf/2305.00866.pdf) [[code](https://github.com/chenshuang-zhang/attack-sam)]
-- 
+- [AV-SAM: Segment Anything Model Meets Audio-Visual Localization and Segmentation](https://arxiv.org/pdf/2305.01836.pdf) 
 - []() [[code]()]
 
 
