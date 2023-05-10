@@ -40,6 +40,8 @@ Object Detection via Symmetric Learning](https://arxiv.org/pdf/2304.04403.pdf) [
 - [Scaling-up Remote Sensing Segmentation Dataset with Segment Anything Model](https://arxiv.org/pdf/2305.02034.pdf) [[code](https://github.com/ViTAE-Transformer/SAMRS)]
 - [SAM on Medical Images: A Comprehensive Study on Three Prompt Modes](https://arxiv.org/pdf/2305.00035.pdf) 
 - [Personalize Segment Anything Model with One Shot](https://arxiv.org/pdf/2305.03048.pdf) [[code](https://github.com/ZrrSkywalker/Personalize-SAM)]
+- [How Segment Anything Model (SAM) Boost Medical Image Segmentation?](https://arxiv.org/pdf/2305.03678.pdf) [[code](https://github.com/YichiZhang98/SAM4MIS)]
+- [Computer-Vision Benchmark Segment-AnythingModel (SAM) in Medical Images: Accuracy in 12 Datasets](https://arxiv.org/pdf/2304.09324.pdf)
 
 ### Image style transfer
 - [ Any-to-Any Style Transfer: Making Picasso and Da Vinci Collaborate ](https://arxiv.org/abs/2304.09728) [[code](https://github.com/Huage001/Transfer-Any-Style)]
