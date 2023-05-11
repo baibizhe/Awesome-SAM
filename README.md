@@ -55,6 +55,7 @@ Object Detection via Symmetric Learning](https://arxiv.org/pdf/2304.04403.pdf) [
 ### Weakly-Supervised Semantic Segmentation
 - [An Alternative to WSSS? An Empirical Study of the Segment Anything Model (SAM) on Weakly-Supervised Semantic Segmentation Problems](https://arxiv.org/pdf/2305.01586.pdf) 
 - [Segment Anything is A Good Pseudo-label Generator for Weakly Supervised Semantic Segmentation](https://arxiv.org/pdf/2305.01275.pdf) 
+- [Segment Anything Model (SAM) Enhanced Pseudo Labels for Weakly Supervised Semantic Segmentation](https://arxiv.org/pdf/2305.05803.pdf) [[code](https://github.com/cskyl/SAM_WSSS)]
 
 
 ### 3D-related
