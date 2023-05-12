@@ -66,6 +66,8 @@ Object Detection via Symmetric Learning](https://arxiv.org/pdf/2304.04403.pdf) [
 - [Segment Anything in Non-Euclidean Domains:Challenges and Opportunities](https://arxiv.org/pdf/2304.11595.pdf) 
 - [CAN SAM COUNT ANYTHING? AN EMPIRICAL STUDY ON SAM COUNTING](https://arxiv.org/pdf/2304.10817.pdf) [[code](https://github.com/Vision-Intelligence-and-Robots-Group/count-anything)]
 - [ATTACK-SAM: TOWARDS EVALUATING ADVERSARIAL ROBUSTNESS OF SEGMENT ANYTHING MODEL](https://arxiv.org/pdf/2305.00866.pdf) [[code](https://github.com/chenshuang-zhang/attack-sam)]
+- [An Empirical Study on the Robustness of the Segment Anything Model (SAM)](https://arxiv.org/pdf/2305.06422.pdf) 
+- [Can SAM Boost Video Super-Resolution? ](https://arxiv.org/pdf/2305.06524.pdf) 
 - [AV-SAM: Segment Anything Model Meets Audio-Visual Localization and Segmentation](https://arxiv.org/pdf/2305.01836.pdf) 
 - []() [[code]()]
 
