@@ -45,6 +45,7 @@ Object Detection via Symmetric Learning](https://arxiv.org/pdf/2304.04403.pdf) [
 - [Segment Any Anomaly without Training via Hybrid Prompt Regularization](https://arxiv.org/pdf/2305.10724.pdf) [[code](https://github.com/caoyunkang/Segment-Any-Anomaly)]
 - [UVOSAM: A Mask-free Paradigm for Unsupervised Video Object Segmentation via Segment Anything Model](https://arxiv.org/pdf/2305.12659.pdf) 
 - [When SAM Meets Shadow Detection](https://arxiv.org/pdf/2305.11513.pdf) [[code](https://github.com/LeipingJie/SAMShadow)]
+- [BreastSAM: A Study of Segment Anything Model for Breast Tumor Detection in Ultrasound Images](https://arxiv.org/pdf/2305.12447.pdf) [[code]()]
 
 ### Image style transfer
 - [ Any-to-Any Style Transfer: Making Picasso and Da Vinci Collaborate ](https://arxiv.org/abs/2304.09728) [[code](https://github.com/Huage001/Transfer-Any-Style)]
