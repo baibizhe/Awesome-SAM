@@ -82,6 +82,7 @@ Object Detection via Symmetric Learning](https://arxiv.org/pdf/2304.04403.pdf) [
 - [AV-SAM: Segment Anything Model Meets Audio-Visual Localization and Segmentation](https://arxiv.org/pdf/2305.01836.pdf) 
 - [A Comprehensive Survey on Segment Anything Model for Vision and Beyond](https://arxiv.org/pdf/2305.08196.pdf) 
 - [Restore Anything Pipeline: Segment Anything Meets Image Restoration](https://arxiv.org/pdf/2305.13093.pdf) [[code](https://github.com/eth-siplab/RAP)]
+- [Explain Any Concept: Segment Anything Meets Concept-Based Explanation](https://arxiv.org/pdf/2305.10289.pdf) 
 
 - []() [[code]()]
 
