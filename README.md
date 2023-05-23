@@ -43,6 +43,8 @@ Object Detection via Symmetric Learning](https://arxiv.org/pdf/2304.04403.pdf) [
 - [Computer-Vision Benchmark Segment-AnythingModel (SAM) in Medical Images: Accuracy in 12 Datasets](https://arxiv.org/pdf/2304.09324.pdf)
 - [Knowledge distillation with Segment Anything (SAM) model for Planetary Geological Mapping](https://arxiv.org/pdf/2305.07586.pdf) 
 - [Segment Any Anomaly without Training via Hybrid Prompt Regularization](https://arxiv.org/pdf/2305.10724.pdf) [[code](https://github.com/caoyunkang/Segment-Any-Anomaly)]
+- [UVOSAM: A Mask-free Paradigm for Unsupervised Video Object Segmentation via Segment Anything Model](https://arxiv.org/pdf/2305.12659.pdf) 
+- [When SAM Meets Shadow Detection](https://arxiv.org/pdf/2305.11513.pdf) [[code](https://github.com/LeipingJie/SAMShadow)]
 
 ### Image style transfer
 - [ Any-to-Any Style Transfer: Making Picasso and Da Vinci Collaborate ](https://arxiv.org/abs/2304.09728) [[code](https://github.com/Huage001/Transfer-Any-Style)]
@@ -78,7 +80,8 @@ Object Detection via Symmetric Learning](https://arxiv.org/pdf/2304.04403.pdf) [
 - [Can SAM Boost Video Super-Resolution? ](https://arxiv.org/pdf/2305.06524.pdf) 
 - [AV-SAM: Segment Anything Model Meets Audio-Visual Localization and Segmentation](https://arxiv.org/pdf/2305.01836.pdf) 
 - [A Comprehensive Survey on Segment Anything Model for Vision and Beyond](https://arxiv.org/pdf/2305.08196.pdf) 
-- 
+- [Restore Anything Pipeline: Segment Anything Meets Image Restoration](https://arxiv.org/pdf/2305.13093.pdf) [[code](https://github.com/eth-siplab/RAP)]
+
 - []() [[code]()]
 
 
