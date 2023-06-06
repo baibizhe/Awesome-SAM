@@ -48,6 +48,7 @@ Object Detection via Symmetric Learning](https://arxiv.org/pdf/2304.04403.pdf) [
 - [BreastSAM: A Study of Segment Anything Model for Breast Tumor Detection in Ultrasound Images](https://arxiv.org/pdf/2305.12447.pdf) [[code]()]
 - [Detect Any Shadow: Segment Anything for Video Shadow Detection](https://arxiv.org/pdf/2305.16698.pdf) [[code](https://github.com/harrytea/Detect-AnyShadow)]
 - [SAM Meets Robotic Surgery: An Empirical Study in Robustness Perspective](https://arxiv.org/pdf/2304.14674.pdf) 
+- [CLIP Surgery for Better Explainability with Enhancement in Open-Vocabulary Tasks ](https://arxiv.org/abs/2304.05653) [[code](https://github.com/xmed-lab/CLIP_Surgery)]
 
 ### Image style transfer
 - [ Any-to-Any Style Transfer: Making Picasso and Da Vinci Collaborate ](https://arxiv.org/abs/2304.09728) [[code](https://github.com/Huage001/Transfer-Any-Style)]
