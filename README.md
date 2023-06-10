@@ -51,6 +51,7 @@ Object Detection via Symmetric Learning](https://arxiv.org/pdf/2304.04403.pdf) [
 
 - [Matting Anything](https://arxiv.org/pdf/2306.05399.pdf) [[code](https://github.com/SHI-Labs/Matting-Anything)]
 - [SAM3D: Segment Anything in 3D Scenes](https://arxiv.org/pdf/2306.03908.pdf) [[code](https://github.com/Pointcept/SegmentAnything3D)]
+- [SAM3D: Zero-Shot 3D Object Detection via Segment Anything Model](https://arxiv.org/pdf/2306.02245.pdf) [[code](https://github.com/DYZhang09/SAM3D)]
 
 
 ### Image style transfer
@@ -63,7 +64,8 @@ Object Detection via Symmetric Learning](https://arxiv.org/pdf/2304.04403.pdf) [
 - [Learnable Ophthalmology SAM](https://arxiv.org/pdf/2304.13425.pdf) [[code](https://github.com/Qsingle/LearnablePromptSAM)]
 - [Customized Segment Anything Model for Medical Image Segmentation](https://arxiv.org/pdf/2304.13785.pdf) [[code](https://github.com/hitachinsk/SAMed)]
 - [PromptUNet: Toward Interactive Medical Image Segmentation](https://arxiv.org/pdf/2305.10300.pdf) [[code](https://github.com/WuJunde/PromptUNet)]
-- 
+- [Segment Anything in High Quality](https://arxiv.org/pdf/2306.01567.pdf) [[code](https://github.com/SysCV/SAM-HQ)]
+
 ### Weakly-Supervised Semantic Segmentation
 - [An Alternative to WSSS? An Empirical Study of the Segment Anything Model (SAM) on Weakly-Supervised Semantic Segmentation Problems](https://arxiv.org/pdf/2305.01586.pdf) 
 - [Segment Anything is A Good Pseudo-label Generator for Weakly Supervised Semantic Segmentation](https://arxiv.org/pdf/2305.01275.pdf) 
