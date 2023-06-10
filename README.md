@@ -16,7 +16,7 @@ I will keep  update daily  until end of May . Some paper haven't been updated to
 Object Detection via Symmetric Learning](https://arxiv.org/pdf/2304.04403.pdf) [[code](https://github.com/Li-Qingyun/sam-mmrotate)]
 
 
-### Semantic segmentation 
+### Semantic segmentation  related
 - [An Investigation of SAM on Different Real-world Applications](https://arxiv.org/pdf/2304.05750.pdf) 
 - [ Assess Zero-shot Segmentation on Whole Slide Imaging](https://arxiv.org/abs/2304.04155) 
 - [ SAM vs BET: A Comparative Study for Brain Extraction and Segmentation of Magnetic Resonance Images using Deep Learning](https://arxiv.org/abs/2304.04738) 
@@ -48,7 +48,10 @@ Object Detection via Symmetric Learning](https://arxiv.org/pdf/2304.04403.pdf) [
 - [BreastSAM: A Study of Segment Anything Model for Breast Tumor Detection in Ultrasound Images](https://arxiv.org/pdf/2305.12447.pdf) [[code]()]
 - [Detect Any Shadow: Segment Anything for Video Shadow Detection](https://arxiv.org/pdf/2305.16698.pdf) [[code](https://github.com/harrytea/Detect-AnyShadow)]
 - [SAM Meets Robotic Surgery: An Empirical Study in Robustness Perspective](https://arxiv.org/pdf/2304.14674.pdf) 
-- [CLIP Surgery for Better Explainability with Enhancement in Open-Vocabulary Tasks ](https://arxiv.org/abs/2304.05653) [[code](https://github.com/xmed-lab/CLIP_Surgery)]
+
+- [Matting Anything](https://arxiv.org/pdf/2306.05399.pdf) [[code](https://github.com/SHI-Labs/Matting-Anything)]
+- [SAM3D: Segment Anything in 3D Scenes](https://arxiv.org/pdf/2306.03908.pdf) [[code](https://github.com/Pointcept/SegmentAnything3D)]
+
 
 ### Image style transfer
 - [ Any-to-Any Style Transfer: Making Picasso and Da Vinci Collaborate ](https://arxiv.org/abs/2304.09728) [[code](https://github.com/Huage001/Transfer-Any-Style)]
