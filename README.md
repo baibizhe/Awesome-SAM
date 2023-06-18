@@ -65,6 +65,7 @@ Object Detection via Symmetric Learning](https://arxiv.org/pdf/2304.04403.pdf) [
 - [Customized Segment Anything Model for Medical Image Segmentation](https://arxiv.org/pdf/2304.13785.pdf) [[code](https://github.com/hitachinsk/SAMed)]
 - [PromptUNet: Toward Interactive Medical Image Segmentation](https://arxiv.org/pdf/2305.10300.pdf) [[code](https://github.com/WuJunde/PromptUNet)]
 - [Segment Anything in High Quality](https://arxiv.org/pdf/2306.01567.pdf) [[code](https://github.com/SysCV/SAM-HQ)]
+- [AutoSAM: Adapting SAM to Medical Images by Overloading the Prompt Encoder](https://arxiv.org/pdf/2306.06370.pdf) 
 
 ### Weakly-Supervised Semantic Segmentation
 - [An Alternative to WSSS? An Empirical Study of the Segment Anything Model (SAM) on Weakly-Supervised Semantic Segmentation Problems](https://arxiv.org/pdf/2305.01586.pdf) 
