@@ -22,9 +22,8 @@ Object Detection via Symmetric Learning](https://arxiv.org/pdf/2304.04403.pdf) [
 ### Semantic segmentation  related
 
 - [ SAMM (Segment Any Medical Model): A 3D Slicer Integration to SAM](https://arxiv.org/abs/2304.04738) [[code](https://github.com/bingogome/samm)]
-
 - [DSEC-MOS: Segment Any Moving Object with Moving Ego Vehicle](https://arxiv.org/pdf/2305.00126.pdf) [[code](https://github.com/ZZY-Zhou/DSEC-MOS)] (404 at May 2nd)
-- [Exploring the Zero-Shot Capabilities of the Segment Anything Model (SAM) in 2D Medical Imaging: A Comprehensive Evaluation and Practical Guideline](https://arxiv.org/pdf/2305.00109.pdf) 
+
 - [GazeSAM: What You See is What You Segment](https://arxiv.org/pdf/2304.13844.pdf) [[code](https://github.com/ukaukaaaa/GazeSAM)]
 - [SkinSAM: Empowering Skin Cancer Segmentation with Segment Anything Model](https://arxiv.org/pdf/2304.13973.pdf) 
 - [Application of Segment Anything Model for Civil Infrastructure Defect Assessment](https://arxiv.org/pdf/2304.12600.pdf) 
@@ -102,6 +101,7 @@ Object Detection via Symmetric Learning](https://arxiv.org/pdf/2304.04403.pdf) [
 - [Generalist Vision Foundation Models for Medical Imaging: A Case Study of Segment Anything Model on Zero-Shot Medical Segmentation](https://arxiv.org/pdf/2304.12637.pdf) 
 - [Application of Segment Anything Model for CivilInfrastructure Defect Assessment](https://arxiv.org/pdf/2304.12600.pdf) 
 - [Segment Anything Model for Medical Image Analysis: an Experimental Study](https://arxiv.org/pdf/2304.10517.pdf) 
-- [segment anything model (SAM) meets glass: mirror and transparent objects cannot be easily detected.](https://arxiv.org/pdf/2305.00278.pdf) 
+- [segment anything model (SAM) meets glass: mirror and transparent objects cannot be easily detected.](https://arxiv.org/pdf/2305.00278.pdf)
+  - [Exploring the Zero-Shot Capabilities of the Segment Anything Model (SAM) in 2D Medical Imaging: A Comprehensive Evaluation and Practical Guideline](https://arxiv.org/pdf/2305.00109.pdf) 
 ## Acknowledgment
 Inspired by [Awesome-CLIP](https://github.com/yzhuoning/Awesome-CLIP).  
