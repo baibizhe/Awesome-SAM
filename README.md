@@ -1,4 +1,4 @@
-# Awesome-SAM
+# Awesome-SAM [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 This repo collects the research resources based on SAM(Segment Anything Model) proposed by Meta AI. If you would like to contribute, please open an issue.
 Some paper haven't been updated to google scholar database. I search it daily from arxiv.
 (Upate on June 19 .Some premiliary  work on  testing SAM on different dataset without any improvement on SAM has been moved to  premiliary  test section )
