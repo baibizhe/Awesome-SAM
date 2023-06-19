@@ -27,18 +27,13 @@ Object Detection via Symmetric Learning](https://arxiv.org/pdf/2304.04403.pdf) [
 - [GazeSAM: What You See is What You Segment](https://arxiv.org/pdf/2304.13844.pdf) [[code](https://github.com/ukaukaaaa/GazeSAM)]
 - [SkinSAM: Empowering Skin Cancer Segmentation with Segment Anything Model](https://arxiv.org/pdf/2304.13973.pdf) 
 - [Application of Segment Anything Model for Civil Infrastructure Defect Assessment](https://arxiv.org/pdf/2304.12600.pdf) 
-- [Scaling-up Remote Sensing Segmentation Dataset with Segment Anything Model](https://arxiv.org/pdf/2305.02034.pdf) [[code](https://github.com/ViTAE-Transformer/SAMRS)]
-- [SAM on Medical Images: A Comprehensive Study on Three Prompt Modes](https://arxiv.org/pdf/2305.00035.pdf) 
+
 - [Personalize Segment Anything Model with One Shot](https://arxiv.org/pdf/2305.03048.pdf) [[code](https://github.com/ZrrSkywalker/Personalize-SAM)]
-- [How Segment Anything Model (SAM) Boost Medical Image Segmentation?](https://arxiv.org/pdf/2305.03678.pdf) [[code](https://github.com/YichiZhang98/SAM4MIS)]
-- [Computer-Vision Benchmark Segment-AnythingModel (SAM) in Medical Images: Accuracy in 12 Datasets](https://arxiv.org/pdf/2304.09324.pdf)
+
 - [Knowledge distillation with Segment Anything (SAM) model for Planetary Geological Mapping](https://arxiv.org/pdf/2305.07586.pdf) 
 - [Segment Any Anomaly without Training via Hybrid Prompt Regularization](https://arxiv.org/pdf/2305.10724.pdf) [[code](https://github.com/caoyunkang/Segment-Any-Anomaly)]
 - [UVOSAM: A Mask-free Paradigm for Unsupervised Video Object Segmentation via Segment Anything Model](https://arxiv.org/pdf/2305.12659.pdf) 
-- [When SAM Meets Shadow Detection](https://arxiv.org/pdf/2305.11513.pdf) [[code](https://github.com/LeipingJie/SAMShadow)]
-- [BreastSAM: A Study of Segment Anything Model for Breast Tumor Detection in Ultrasound Images](https://arxiv.org/pdf/2305.12447.pdf) [[code]()]
-- [Detect Any Shadow: Segment Anything for Video Shadow Detection](https://arxiv.org/pdf/2305.16698.pdf) [[code](https://github.com/harrytea/Detect-AnyShadow)]
-- [SAM Meets Robotic Surgery: An Empirical Study in Robustness Perspective](https://arxiv.org/pdf/2304.14674.pdf) 
+
 
 - [Matting Anything](https://arxiv.org/pdf/2306.05399.pdf) [[code](https://github.com/SHI-Labs/Matting-Anything)]
 - [SAM3D: Segment Anything in 3D Scenes](https://arxiv.org/pdf/2306.03908.pdf) [[code](https://github.com/Pointcept/SegmentAnything3D)]
@@ -102,6 +97,14 @@ Object Detection via Symmetric Learning](https://arxiv.org/pdf/2304.04403.pdf) [
 - [Application of Segment Anything Model for CivilInfrastructure Defect Assessment](https://arxiv.org/pdf/2304.12600.pdf) 
 - [Segment Anything Model for Medical Image Analysis: an Experimental Study](https://arxiv.org/pdf/2304.10517.pdf) 
 - [segment anything model (SAM) meets glass: mirror and transparent objects cannot be easily detected.](https://arxiv.org/pdf/2305.00278.pdf)
-  - [Exploring the Zero-Shot Capabilities of the Segment Anything Model (SAM) in 2D Medical Imaging: A Comprehensive Evaluation and Practical Guideline](https://arxiv.org/pdf/2305.00109.pdf) 
+- [Exploring the Zero-Shot Capabilities of the Segment Anything Model (SAM) in 2D Medical Imaging: A Comprehensive Evaluation and Practical Guideline](https://arxiv.org/pdf/2305.00109.pdf)
+-  [Scaling-up Remote Sensing Segmentation Dataset with Segment Anything Model](https://arxiv.org/pdf/2305.02034.pdf) [[code](https://github.com/ViTAE-Transformer/SAMRS)]
+- [SAM on Medical Images: A Comprehensive Study on Three Prompt Modes](https://arxiv.org/pdf/2305.00035.pdf)
+-  [How Segment Anything Model (SAM) Boost Medical Image Segmentation?](https://arxiv.org/pdf/2305.03678.pdf) [[code](https://github.com/YichiZhang98/SAM4MIS)]
+- [Computer-Vision Benchmark Segment-AnythingModel (SAM) in Medical Images: Accuracy in 12 Datasets](https://arxiv.org/pdf/2304.09324.pdf)
+-  [When SAM Meets Shadow Detection](https://arxiv.org/pdf/2305.11513.pdf) [[code](https://github.com/LeipingJie/SAMShadow)]
+- [BreastSAM: A Study of Segment Anything Model for Breast Tumor Detection in Ultrasound Images](https://arxiv.org/pdf/2305.12447.pdf) [[code]()]
+- [Detect Any Shadow: Segment Anything for Video Shadow Detection](https://arxiv.org/pdf/2305.16698.pdf) [[code](https://github.com/harrytea/Detect-AnyShadow)]
+- [SAM Meets Robotic Surgery: An Empirical Study in Robustness Perspective](https://arxiv.org/pdf/2304.14674.pdf) 
 ## Acknowledgment
 Inspired by [Awesome-CLIP](https://github.com/yzhuoning/Awesome-CLIP).  
