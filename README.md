@@ -1,10 +1,12 @@
 # Awesome-SAM
 This repo collects the research resources based on SAM(Segment Anything Model) proposed by Meta AI. If you would like to contribute, please open an issue.
-I will keep  update daily  until end of May . Some paper haven't been updated to google scholar database. I search it daily from arxiv
+Some paper haven't been updated to google scholar database. I search it daily from arxiv.
+[Upate on June 19 .Some premiliary  work on  testing SAM on different dataset without any improvement on SAM has been moved to  premiliary  test section ]
 
 
 ## SAM 
 - [Segment Anything](https://arxiv.org/abs/2304.02643) [[code](https://segment-anything.com/) , [demo](https://segment-anything.com/) , [Fine-tune blog](https://encord.com/blog/learn-how-to-fine-tune-the-segment-anything-model-sam/)]
+
 
 
 ## Applications
@@ -97,6 +99,7 @@ Object Detection via Symmetric Learning](https://arxiv.org/pdf/2304.04403.pdf) [
 
 - []() [[code]()]
 
+## Object detection
 
 ## Acknowledgment
 Inspired by [Awesome-CLIP](https://github.com/yzhuoning/Awesome-CLIP).  
