@@ -75,6 +75,7 @@ Object Detection via Symmetric Learning](https://arxiv.org/pdf/2304.04403.pdf) [
 
 ### 3D-related
 - [Anything-3D: Towards Single-view Anything Reconstruction in the Wild](https://arxiv.org/abs/2304.10261) [[code](https://github.com/Anything-of-anything/Anything-3D)]
+- [Segment Any Point Cloud Sequences](https://arxiv.org/abs/2306.09347) [[code](https://github.com/youquanl/Segment-Any-Point-Cloud)]
 
 ### Tracking
 - [Track Anything: Segment Anything Meets Videos](https://arxiv.org/pdf/2304.11968.pdf) [[code](https://github.com/gaomingqi/Track-Anything)]
