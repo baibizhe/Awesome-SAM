@@ -52,6 +52,8 @@ Object Detection via Symmetric Learning](https://arxiv.org/pdf/2304.04403.pdf) [
 - [PromptUNet: Toward Interactive Medical Image Segmentation](https://arxiv.org/pdf/2305.10300.pdf) [[code](https://github.com/WuJunde/PromptUNet)]
 - [Segment Anything in High Quality](https://arxiv.org/pdf/2306.01567.pdf) [[code](https://github.com/SysCV/SAM-HQ)]
 - [AutoSAM: Adapting SAM to Medical Images by Overloading the Prompt Encoder](https://arxiv.org/pdf/2306.06370.pdf) 
+- [Winning Solution for the CVPR2023 Visual Anomaly and Novelty Detection Challenge: Multimodal Prompting for Data-centric Anomaly Detection
+](https://arxiv.org/abs/2306.09067v1) [[code](https://github.com/caoyunkang/Segment-Any-Anomaly)]
 
 ### Weakly-Supervised Semantic Segmentation
 - [An Alternative to WSSS? An Empirical Study of the Segment Anything Model (SAM) on Weakly-Supervised Semantic Segmentation Problems](https://arxiv.org/pdf/2305.01586.pdf) 
