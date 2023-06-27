@@ -85,6 +85,7 @@ Object Detection via Symmetric Learning](https://arxiv.org/pdf/2304.04403.pdf) [
 - []() [[code]()]
 
 ##  Premiliary  Test on SAM 
+- [Segment Anything Model for Medical Images?](https://arxiv.org/abs/2304.14660)
 - [An Investigation of SAM on Different Real-world Applications](https://arxiv.org/pdf/2304.05750.pdf) 
 - [Segment Anything in Non-Euclidean Domains:Challenges and Opportunities](https://arxiv.org/pdf/2304.11595.pdf) 
 - [ Assess Zero-shot Segmentation on Whole Slide Imaging](https://arxiv.org/abs/2304.04155) 
