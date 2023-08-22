@@ -55,6 +55,11 @@ Object Detection via Symmetric Learning](https://arxiv.org/pdf/2304.04403.pdf) [
 - [SAM Meets Robotic Surgery: An Empirical Study on Generalization, Robustness and Adaptation](https://arxiv.org/pdf/2308.07156.pdf)  [[code](https://github.com/ternaus/robot-surgery-segmentation)](Point based segmentation)
 - [Winning Solution for the CVPR2023 Visual Anomaly and Novelty Detection Challenge: Multimodal Prompting for Data-centric Anomaly Detection
 ](https://arxiv.org/abs/2306.09067v1) [[code](https://github.com/caoyunkang/Segment-Any-Anomaly)]
+- [Polyp-SAM++: Can A Text Guided SAM Perform Better for Polyp Segmentation?](https://arxiv.org/pdf/2308.06623.pdf) [[code](https://github.com/RisabBiswas/Polyp-SAM++)] (SAM+GroundedDINO)
+- [AdaptiveSAM: Towards Efficient Tuning of SAM for Surgical Scene Segmentation](https://arxiv.org/pdf/2308.03726.pdf) [[code](https://github.com/JayParanjape/biastuning)]
+- [All-in-SAM: from Weak Annotation to Pixel-wise Nuclei Segmentation with Prompt-based Finetuning](https://arxiv.org/pdf/2307.00290.pdf) [[code]()]
+
+
 
 ### Weakly-Supervised Semantic Segmentation
 - [An Alternative to WSSS? An Empirical Study of the Segment Anything Model (SAM) on Weakly-Supervised Semantic Segmentation Problems](https://arxiv.org/pdf/2305.01586.pdf) 
