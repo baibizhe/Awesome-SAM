@@ -51,7 +51,8 @@ Object Detection via Symmetric Learning](https://arxiv.org/pdf/2304.04403.pdf) [
 - [Customized Segment Anything Model for Medical Image Segmentation](https://arxiv.org/pdf/2304.13785.pdf) [[code](https://github.com/hitachinsk/SAMed)]
 - [PromptUNet: Toward Interactive Medical Image Segmentation](https://arxiv.org/pdf/2305.10300.pdf) [[code](https://github.com/WuJunde/PromptUNet)]
 - [Segment Anything in High Quality](https://arxiv.org/pdf/2306.01567.pdf) [[code](https://github.com/SysCV/SAM-HQ)]
-- [AutoSAM: Adapting SAM to Medical Images by Overloading the Prompt Encoder](https://arxiv.org/pdf/2306.06370.pdf) 
+- [AutoSAM: Adapting SAM to Medical Images by Overloading the Prompt Encoder](https://arxiv.org/pdf/2306.06370.pdf)
+- [SAM Meets Robotic Surgery: An Empirical Study on Generalization, Robustness and Adaptation](https://arxiv.org/pdf/2308.07156.pdf)  [[code](https://github.com/ternaus/robot-surgery-segmentation)](Point based segmentation)
 - [Winning Solution for the CVPR2023 Visual Anomaly and Novelty Detection Challenge: Multimodal Prompting for Data-centric Anomaly Detection
 ](https://arxiv.org/abs/2306.09067v1) [[code](https://github.com/caoyunkang/Segment-Any-Anomaly)]
 
